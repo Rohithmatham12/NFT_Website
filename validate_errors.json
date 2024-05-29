@@ -1,0 +1,6 @@
+[
+  {
+    "path": "assets\\collection.json",
+    "error": "invalid type: sequence, expected struct Metadata at line 1 column 1"
+  }
+]

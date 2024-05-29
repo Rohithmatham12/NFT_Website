@@ -1,0 +1,50 @@
+{
+  "program": {
+    "candyMachine": "Ed2Mbb7EnGNVmFBjgkhYL3hRiFfwMLTtGfodGo6BHeKu",
+    "candyGuard": "5RW2Ticqsue6DMSPwWXbkjrHKwcRS3zBKp99S9WbRGfe",
+    "candyMachineCreator": "C1YdyMSx7wPpbcKJhMLaj86wP1W6xzHvH8YrR6GnDvXX",
+    "collectionMint": "HLEQaquHsKKzGn2YfA9jmdLnEGJZav1pfh9gXLYnY6ig"
+  },
+  "items": {
+    "-1": {
+      "name": "Your Collection #1",
+      "image_hash": "c2e52bb1203c0987b6743a49898fde7e62b98a7b0630c8a13c28ae40d7b1604a",
+      "image_link": "https://arweave.net/9O_FeNTTAdiTJFZa-Mxc8-tJ4llA98nlQ7zMErlu5sg?ext=png",
+      "metadata_hash": "6c75fbe4c7752be47936e816e5305a2dd46bfa5ba96035c43018a460dd30c014",
+      "metadata_link": "https://arweave.net/P9dGChV7vEgOpISrbV1gOLVm-PNpNPb5wnsL-Cz6diw",
+      "onChain": true
+    },
+    "0": {
+      "name": "Your Collection #1",
+      "image_hash": "673d6385a8e3a28803a12147d21d3b025132037ed88bdfdffaf91b24d9f910f1",
+      "image_link": "ipfs://NewUriToReplace/1.png",
+      "metadata_hash": "4d0ae5d1324a2c30ff2bfe447935a279b0d85b2905891b26abc3cd072c7a5658",
+      "metadata_link": "https://arweave.net/v56p8sJXT8Il-xk7tqDzqsvZAGTd6ATh6k3qio2ZZ0w",
+      "onChain": true
+    },
+    "1": {
+      "name": "Your Collection #2",
+      "image_hash": "4e284c410ca9bfc842aa22f10bf7305b073dd9d7083d54ac68fdeca2d3e11601",
+      "image_link": "ipfs://NewUriToReplace/2.png",
+      "metadata_hash": "3ebf3d65b02a5e956c5a7bb5c4f83fb7c739797d57fe283935de582463c8a52b",
+      "metadata_link": "https://arweave.net/Q6MKs25wYF4cMgQNsjB-CYHz5i-ugrguiZ-nTyVQSeU",
+      "onChain": true
+    },
+    "2": {
+      "name": "Your Collection #3",
+      "image_hash": "35d6ecdf0d27a7805d544f6204b2ace265e55a832e570f42f9cfdf1e2389b395",
+      "image_link": "ipfs://NewUriToReplace/3.png",
+      "metadata_hash": "33fe785557f04c81069e110c7a856f41c2b23fed9678012445446203f7661fb2",
+      "metadata_link": "https://arweave.net/WtVHVYOxsGSyWtY5TmOQ_WkmYx23h9ojhYyYo7nAplg",
+      "onChain": true
+    },
+    "3": {
+      "name": "Your Collection #4",
+      "image_hash": "9d41eaf87c4b0313f73044fd1d56630a5affac8dccb2992b34a7a51a0a86dcb1",
+      "image_link": "ipfs://NewUriToReplace/4.png",
+      "metadata_hash": "e09b5826fae75cf238fe20ebc2bbc791cfa46e6aff16731b7ec82fa74a5b0915",
+      "metadata_link": "https://arweave.net/8mrq5S7LZ7mG8FecQaBjYLx7mOUeqNlUfgAe6gTajwM",
+      "onChain": true
+    }
+  }
+}
